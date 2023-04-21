@@ -21,7 +21,8 @@ for (let i = 0;i < 2; i++ ) {
 
     }
     else {
-
+        console.log ("bad result");
+        i--;
     }
      
 }
